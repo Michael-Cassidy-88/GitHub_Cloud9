@@ -10,4 +10,4 @@ git push --set-upstream origin <CURRENT_BRANCH>
 git config --global credential.helper store
 git push --set-upstream origin <CURRENT_BRANCH>
 # Enter username and authentication token
-# Now you will not need to enter credentials to pust code to GitHub Repo
+# Now you will not need to enter credentials to push code to GitHub Repo
